@@ -2,9 +2,13 @@
 
 I write software, and run validators. Notable works include:
 
+## CosmWasm SDK
+
+A framework for building CosmWasm smart contract-enabled, IBC-compatible blockchains. 👉 [cw-sdk repo](https://github.com/steak-enjoyers/cw-sdk)
+
 ## Badges
 
-An NFT protocol that allows anyone to permissionlessly create digital badges.
+An NFT protocol that allows anyone to permissionlessly create digital badges. Deployed on [Startgaze](https://app.stargaze.zone/) blockchain.
 
 | Repository                                                         | Description                                          |
 | ------------------------------------------------------------------ | ---------------------------------------------------- |
@@ -15,7 +19,7 @@ An NFT protocol that allows anyone to permissionlessly create digital badges.
 
 ## Steak
 
-Liquid staking protocol implemented in [CosmWasm](https://cosmwasm.com/). Originally launched on Terra Classic, it has been forked by multiple teams and deployed on Terra2, Juno, and Osmosis.
+Liquid staking protocol implemented in CosmWasm. Originally launched on Terra Classic, it has been forked by multiple teams and deployed on Terra2, Juno, and Osmosis. Notable forks include [Eris Protocol](https://twitter.com/eris_protocol)'s ampLUNA and [Backbone Labs](https://twitter.com/BackBone_Labs)' bLUNA.
 
 | Repository                                                     | Description                                       |
 | -------------------------------------------------------------- | ------------------------------------------------- |
@@ -24,8 +28,9 @@ Liquid staking protocol implemented in [CosmWasm](https://cosmwasm.com/). Origin
 
 ## Tooling
 
-| Repository                                                     | Description                                                        |
-| -------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [cw-plus-plus](https://github.com/steak-enjoyers/cw-plus-plus) | A collection of CosmWasm utilities and helper functions that I use |
-| [batcher](https://github.com/steak-enjoyers/batcher)           | An on chain tx and query batcher                                   |
-| [keystore](https://github.com/steak-enjoyers/keystore)         | A handy private key management tool for NodeJS                     |
+| Repository                                                       | Description                                                        |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [rust-template](https://github.com/steak-enjoyers/rust-template) | Template for single-crate Rust projects                            |
+| [cw-template](https://github.com/steak-enjoyers/cw-template)     | Template for multi-contract CosmWasm projects                      |
+| [cw-plus-plus](https://github.com/steak-enjoyers/cw-plus-plus)   | A collection of CosmWasm utilities and helper functions that I use |
+| [keyring](https://github.com/steak-enjoyers/keyring)             | File-based keyring application for secp256k1 private keys          |
