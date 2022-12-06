@@ -2,11 +2,11 @@
 
 I write software, and run validators. Notable works include:
 
-## CosmWasm SDK
+## ⛓️ CosmWasm SDK
 
 A framework for building CosmWasm smart contract-enabled, IBC-compatible blockchains. 👉 [cw-sdk repo](https://github.com/steak-enjoyers/cw-sdk)
 
-## Badges
+## 🏷️ Badges
 
 An NFT protocol that allows anyone to permissionlessly create digital badges. Deployed on [Startgaze](https://app.stargaze.zone/) blockchain.
 
@@ -17,7 +17,7 @@ An NFT protocol that allows anyone to permissionlessly create digital badges. De
 | [badges-scripts](https://github.com/steak-enjoyers/badges-scripts) | NodeJS scripts for interacting with Badges contracts |
 | [badges-webapp](https://github.com/steak-enjoyers/badges-webapp)   | Web frontend for interacting with Badges contracts   |
 
-## Steak
+## 🥩 Steak
 
 Liquid staking protocol implemented in CosmWasm. Originally launched on Terra Classic, it has been forked by multiple teams and deployed on Terra2, Juno, and Osmosis. Notable forks include [Eris Protocol](https://twitter.com/eris_protocol)'s ampLUNA and [Backbone Labs](https://twitter.com/BackBone_Labs)' bLUNA.
 
@@ -26,7 +26,7 @@ Liquid staking protocol implemented in CosmWasm. Originally launched on Terra Cl
 | [steak](https://github.com/steak-enjoyers/steak)               | Steak smart contracts                             |
 | [steak-webapp](https://github.com/steak-enjoyers/steak-webapp) | Web frontend for interacting with Steak contracts |
 
-## Tooling
+## 🛠️ Tooling
 
 | Repository                                                       | Description                                                        |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
